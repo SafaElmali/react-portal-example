@@ -10,3 +10,7 @@ _<p>An example to show how to create react portal and how is it used for 👽</p
 ## Preview
 ![ezgif-2-6093314f35dd](https://user-images.githubusercontent.com/17435062/133894532-12096ef0-7b0b-4865-97fa-a6338f67e2d5.gif)
 
+
+## License
+
+React Portal Example is [MIT licensed](./LICENSE).
