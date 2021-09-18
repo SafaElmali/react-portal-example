@@ -26,7 +26,7 @@ const ProductDetail = () => {
       <div className="product-detail">
         <div className="product-title">Pubg Mobile 600+60 UC 1100000000175</div>
         <div className="product-seller">
-          <span>Satıcı:</span> <a href="#">Epin Tower</a>
+          <span>Satıcı:</span> <button>Epin Tower</button>
         </div>
         <div className="product-rate">
           <img

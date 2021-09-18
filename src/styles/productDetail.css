@@ -22,7 +22,10 @@
   color: #666;
 }
 
-.product-seller a {
+.product-seller button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
   color: #4d8ee1;
   text-decoration: none;
 }
