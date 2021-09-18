@@ -6,7 +6,6 @@ function App() {
     <div className="container">
       <TopNav />
       <ProductDetail productName="Pubg" />
-      <ProductDetail productName="Pubg" />
     </div>
   );
 }
