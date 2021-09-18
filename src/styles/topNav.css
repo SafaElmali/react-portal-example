@@ -6,7 +6,6 @@
   top: 0px;
   z-index: 999;
   background-color: #fff;
-  
 }
 
 .topnav-container img {
@@ -28,12 +27,14 @@
   position: relative;
 }
 
-.navigation-item a {
-  text-decoration: none;
+.navigation-item button {
+  background: transparent;
+  border: none;
   font-family: "Source Sans Pro", sans-serif;
   color: #000;
+  cursor: pointer;
 }
 
-.navigation-item a:hover {
+.navigation-item button:hover {
   color: rgb(165, 161, 161);
 }
