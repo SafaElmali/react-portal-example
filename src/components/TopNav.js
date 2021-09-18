@@ -12,13 +12,13 @@ const TopNav = () => {
         </div>
         <div className="navigation-item-list">
           <div className="navigation-item">
-            <button href="#">Hesabım</button>
+            <button>Hesabım</button>
           </div>
           <div className="navigation-item">
-            <button href="#">Favorilerim</button>
+            <button>Favorilerim</button>
           </div>
           <div className="navigation-item" id="basket-item">
-            <button href="#">Sepetim</button>
+            <button>Sepetim</button>
           </div>
         </div>
       </div>

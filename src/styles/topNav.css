@@ -27,7 +27,7 @@
   position: relative;
 }
 
-.navigation-item button {
+.navigation-item > button {
   background: transparent;
   border: none;
   font-family: "Source Sans Pro", sans-serif;
@@ -35,6 +35,6 @@
   cursor: pointer;
 }
 
-.navigation-item button:hover {
+.navigation-item > button:hover {
   color: rgb(165, 161, 161);
 }
