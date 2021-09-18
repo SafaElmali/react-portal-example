@@ -11,6 +11,7 @@
   overflow: hidden;
   animation: display-modal-in 0.3s ease-in-out;
   padding: 1em;
+  font-family: "Source Sans Pro", sans-serif;
 }
 
 @keyframes display-modal-in {
