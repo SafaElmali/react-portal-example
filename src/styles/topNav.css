@@ -1,0 +1,38 @@
+.topnav-container {
+  margin: 0 auto;
+  max-width: 1100px;
+  padding: 2.5em;
+  position: sticky;
+  top: 0px;
+  z-index: 999;
+  
+}
+
+.topnav-container img {
+  width: 111px;
+  height: 100%;
+  margin-bottom: 8px;
+}
+
+.navigation-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-item-list {
+  display: flex;
+  flex-direction: row;
+  gap: 1em;
+  position: relative;
+}
+
+.navigation-item a {
+  text-decoration: none;
+  font-family: "Source Sans Pro", sans-serif;
+  color: #000;
+}
+
+.navigation-item a:hover {
+  color: rgb(165, 161, 161);
+}

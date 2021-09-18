@@ -1,0 +1,103 @@
+.product-container {
+  display: flex;
+  font-family: "Source Sans Pro", sans-serif;
+  gap: 3em;
+  margin: 0 auto;
+  max-width: 1000px;
+  padding: 3em;
+  position: relative;
+}
+
+.product-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.product-seller {
+  font-size: 0.9em;
+}
+
+.product-seller span {
+  color: #666;
+}
+
+.product-seller a {
+  color: #4d8ee1;
+  text-decoration: none;
+}
+
+.product-image img {
+  border-radius: 20px;
+  width: 300px;
+}
+
+.product-rate {
+  display: flex;
+  gap: 5px;
+}
+
+.product-rate-detail {
+  color: #666;
+  margin: 0 10px;
+}
+
+.product-rate-detail span {
+  margin: 0 5px;
+}
+
+.product-rate-detail span:first-of-type {
+  padding-right: 10px;
+  border-right: 1px solid #666;
+}
+
+.product-button-container {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  margin-top: 5px;
+  padding: 10px 0px;
+  border-bottom: 1px solid rgba(151, 151, 151, 0.2);
+}
+
+.add-to-basket-button {
+  -webkit-font-smoothing: antialiased;
+  background: #f27a1a;
+  border-radius: 6px;
+  border: 1px solid #f27a1a;
+  color: #fff;
+  cursor: pointer;
+  font-size: 20px;
+  font-weight: 600;
+  height: 50px;
+  letter-spacing: 0.05em;
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  width: 100%;
+}
+
+.product-price-container {
+  align-items: center;
+  border-bottom: 1px solid rgba(151, 151, 151, 0.2);
+  display: flex;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 24px;
+  gap: 15px;
+  padding-bottom: 20px;
+}
+
+.product-original-price {
+  color: #666;
+  line-height: normal;
+  margin-right: 10px;
+  text-decoration: line-through;
+}
+
+.product-discounted-price {
+  color: #f27a1a;
+  font-family: "Oxygen", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: normal;
+  margin-right: 6px;
+}

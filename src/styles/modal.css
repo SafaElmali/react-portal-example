@@ -1,0 +1,25 @@
+.modal-container {
+  width: 300px;
+  top: 30px;
+  border: 1px solid #e6e6e6;
+  position: absolute;
+  left: 0;
+  z-index: 999;
+  background-color: #fff;
+  box-shadow: 0 3px 10px 0 rgb(0 0 0 / 7%);
+  border-radius: 6px;
+  overflow: hidden;
+  animation: display-modal-in 0.3s ease-in-out;
+  padding: 1em;
+}
+
+@keyframes display-modal-in {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
