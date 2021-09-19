@@ -1,11 +1,17 @@
 .product-container {
+  background-color: #fff;
+  border-radius: 6px;
+  border: solid 1px #e6e6e6;
+  box-shadow: 0 1px 4px #0000000d;
+  box-sizing: border-box;
   display: flex;
-  font-family: "Source Sans Pro", sans-serif;
   gap: 3em;
+  margin-bottom: 30px;
   margin: 10px auto;
   max-width: 1000px;
   padding: 3em;
   position: relative;
+  width: 956px;
 }
 
 .product-detail {
@@ -83,7 +89,6 @@
   align-items: center;
   border-bottom: 1px solid rgba(151, 151, 151, 0.2);
   display: flex;
-  font-family: "Source Sans Pro", sans-serif;
   font-size: 24px;
   gap: 15px;
   padding-bottom: 20px;

@@ -30,7 +30,6 @@
 .navigation-item > button {
   background: transparent;
   border: none;
-  font-family: "Source Sans Pro", sans-serif;
   color: #000;
   cursor: pointer;
 }
