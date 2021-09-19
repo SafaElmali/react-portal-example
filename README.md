@@ -8,8 +8,8 @@
 <i>This repo contains demo codes for my Medium article 👉 ⚠️ Still in construction ⚠️
 
 ## Preview 
-
-![ezgif-2-6093314f35dd](https://user-images.githubusercontent.com/17435062/133894532-12096ef0-7b0b-4865-97fa-a6338f67e2d5.gif)
+  
+![ezgif-1-8afb009d3f35](https://user-images.githubusercontent.com/17435062/133929626-70c436f5-62ea-4b6f-a95e-d6b16e747dd5.gif)
 
 </div>
 
