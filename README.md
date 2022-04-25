@@ -5,7 +5,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
 
-<i>This repo contains demo codes for my Medium article 👉 ⚠️ Still in construction ⚠️
+<i>This repo contains demo codes for my Medium article 
 
 ## Preview 
   
